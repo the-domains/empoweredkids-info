@@ -1,0 +1,23 @@
+name: empoweredkids.info
+favicon: null
+layout_spectrum: 0.07987103424966335
+typography_spectrum: 0.778625029604882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7473274420481175
+  lightness: 0.48793322732672095
+  saturation: 0.49047823599539697
+  rhythmicContrast: 0.8423289731144905
+purpose: []
